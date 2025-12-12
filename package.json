@@ -1,0 +1,30 @@
+{
+  "name": "ai-learning-journey",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "Initial_llm_call.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dixy-05/AI-Learning-Journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dixy-05/AI-Learning-Journey/issues"
+  },
+  "homepage": "https://github.com/Dixy-05/AI-Learning-Journey#readme",
+  "description": "",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.71.2",
+    "dotenv": "^17.2.3",
+    "openai": "^6.10.0",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.1"
+  }
+}
