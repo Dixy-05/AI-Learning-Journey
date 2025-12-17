@@ -35,4 +35,3 @@ async function estimateProject(description) {
 const result = await estimateProject(
   'Build a 15m² wooden deck, 2m above ground, with railing',
 );
-console.log(result);
